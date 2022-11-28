@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...basic lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... On discord @ Ray Miles#1415
+-    Learning to create discord bots!
 
 <!---
 Gamezff/Gamezff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
